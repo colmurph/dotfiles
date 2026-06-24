@@ -1,0 +1,19 @@
+[user]
+	name = Colin Murphy
+	email = colinm@graphcore.ai
+[core]
+	editor = vim
+	autocrlf = true
+	excludesFile = /Users/colinm/.gitignore_global
+[merge]
+  renamelimit = 999999
+[diff]
+  renamelimit = 999999
+[alias]
+  lg = log --graph --abbrev-commit --decorate  --date='short' --format=format:'%C(blue)%h%C(reset) %C(green)(%ad)%C(reset) %C(auto)%d%C(reset) %C(yellow)%s%C(reset) %C(dim white)- %an%C(reset)'
+#  lg2 = log --graph --abbrev-commit --decorate  --date='local' --format=format:'%C(blue)%H%C(reset) %C(green)(%ad)%C(reset)%C(auto)%d%C(reset)%n''%C(dim white)%an <%ae>%C(reset)%n''    %C(yellow)%s%C(reset)%n''%b%n'
+  su = submodule update --init --recursive
+[color]
+	ui = auto
+[advice]
+  addIgnoredFile = false

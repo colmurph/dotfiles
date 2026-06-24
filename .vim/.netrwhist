@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Users/colinm/Workplace/application'
+let g:netrw_dirhist_0='/Users/colinm/Workplace/application/ICU-boot/DA/Binary'
+let g:netrw_dirhist_9='/Users/colinm/.vim'
+let g:netrw_dirhist_8='/Users/colinm/Workplace/application/glasto/session_logs'
+let g:netrw_dirhist_7='/Users/colinm/Workplace/custom/try_scp/.repo'
+let g:netrw_dirhist_6='/Users/colinm/.ssh'
+let g:netrw_dirhist_5='/Users/colinm/Workplace/application/ICU-boot/bl1/cmake'
+let g:netrw_dirhist_4='/Users/colinm/Workplace/application/ICU-boot/build/bl1_lms/cmake'
+let g:netrw_dirhist_3='/Users/colinm/Workplace/application/ICU-firmware/.git/modules'
+let g:netrw_dirhist_2='/Users/colinm/Workplace/mcu/applications/gc-firmware/src'
