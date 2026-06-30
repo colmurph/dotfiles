@@ -17,3 +17,5 @@
 	ui = auto
 [advice]
   addIgnoredFile = false
+[rebase]
+  instructionFormat = "(%as) %s - %an"
