@@ -3,8 +3,6 @@
 	email = colinm@graphcore.ai
 [core]
 	editor = vim
-	autocrlf = true
-	excludesFile = /Users/colinm/.gitignore_global
 [merge]
   renamelimit = 999999
 [diff]
